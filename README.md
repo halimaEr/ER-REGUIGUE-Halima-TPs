@@ -9,3 +9,4 @@ Projet en groupe : lien https://github.com/Meryem-Khayati/tp
 -Projet en groupe
 -Lien : https://github.com/halimaEr/tp-gestion-emplois 
 Membres du groupe : Er-Reguigue Halima et Khayati Meryem
+-TP gestion des blog lien https://github.com/halimaEr/gestion-blogs
