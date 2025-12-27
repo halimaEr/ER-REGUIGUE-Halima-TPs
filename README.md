@@ -12,4 +12,7 @@ Membres du groupe : Er-Reguigue Halima et Khayati Meryem
 -TP gestion des blog lien https://github.com/halimaEr/gestion-blogs
 -TP6: voting-app ENSAS lien sur github : https://github.com/halimaEr/ensas-voting-app
      lien de hosting : https://ensas-voting-app.web.app/
+-TP7 :Forum-app
+   -->lien de hosting : https://forumapp-4e411.web.app
+   -->lien sur github : https://github.com/halimaEr/ensas-voting-app
 
